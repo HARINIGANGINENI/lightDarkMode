@@ -1,0 +1,31 @@
+.bg-container {
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.dark-mode {
+  background-color: black;
+  color: #ffffff;
+}
+.light-mode {
+  background-color: white;
+  color: black;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.button {
+  font-size: 16px;
+  height: 30px;
+  width: 90px;
+  border: none;
+}
